@@ -1,0 +1,8 @@
+2026-02-08 22:30:33,612 - object_detection - INFO - ============================================================
+2026-02-08 22:30:33,612 - object_detection - INFO - Starting Hybrid CNN-Transformer Object Detection Training
+2026-02-08 22:30:33,612 - object_detection - INFO - ============================================================
+2026-02-08 22:30:33,612 - object_detection - INFO - Using device: cpu
+2026-02-08 22:30:33,612 - object_detection - INFO - Loading datasets...
+2026-02-08 22:30:33,612 - object_detection - ERROR - Dataset not found: Annotation file not found: data\coco copy\annotations_coco\instances_train2017.json
+Please download the COCO dataset first.
+2026-02-08 22:30:33,612 - object_detection - ERROR - Please download the COCO dataset first. See README.md for instructions.

@@ -1,0 +1,14 @@
+2026-02-08 23:40:06,876 - object_detection - INFO - ============================================================
+2026-02-08 23:40:06,876 - object_detection - INFO - Starting Hybrid CNN-Transformer Object Detection Training
+2026-02-08 23:40:06,876 - object_detection - INFO - ============================================================
+2026-02-08 23:40:06,876 - object_detection - INFO - Using device: cpu
+2026-02-08 23:40:06,876 - object_detection - INFO - Loading datasets...
+2026-02-08 23:40:18,330 - object_detection - INFO - Train dataset: 117266 images
+2026-02-08 23:40:18,330 - object_detection - INFO - Val dataset: 4952 images
+2026-02-08 23:40:18,330 - object_detection - INFO - Train batches per epoch: 3664
+2026-02-08 23:40:18,345 - object_detection - INFO - Val batches per epoch: 155
+2026-02-08 23:40:18,346 - object_detection - INFO - Creating model...
+2026-02-08 23:40:25,534 - object_detection - INFO - Starting training...
+2026-02-08 23:40:25,534 - object_detection - INFO - 
+Epoch 1/5
+2026-02-08 23:40:25,534 - object_detection - INFO - Learning rate: 0.001000
